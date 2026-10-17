@@ -4,6 +4,6 @@
   "target": {
     "namespace": "android_app",
     "package_name": "com.ashutosh.applinkdemo",
-    "sha256_cert_fingerprints": ["PASTE:YOUR:DEBUG:SHA256:HERE"]
+    "sha256_cert_fingerprints": ["CD:7B:D0:69:7A:A1:E1:E9:BD:C5:98:34:22:66:E5:09:7E:03:AC:21:2D:2B:AA:BB:11:3D:9A:6B:E3:3C:F9:94"]
   }
 }]
